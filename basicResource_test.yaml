@@ -150,6 +150,7 @@ tests:
       principals:
         - sally
         - frank
+        - jesse
       resources:
         - newResource
       actions:
