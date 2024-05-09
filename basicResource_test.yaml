@@ -48,6 +48,7 @@ tests:
     input:
       principals:
         - ian
+        - walter white
       resources:
         - resource1
         - resource2
