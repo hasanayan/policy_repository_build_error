@@ -19,7 +19,7 @@ resourcePolicy:
     # Any user can create a resource
     - actions:
         - create
-      effect! EFFECT_ALLOW
+      effect: EFFECT_ALLOW
       roles:
         - USER
 
