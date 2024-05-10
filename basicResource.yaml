@@ -12,7 +12,7 @@ resourcePolicy:
     # If the `principal`s role is `admin` then all the actions are allowed.
     - actions:
         - "*"
-      effect: EFFECT_ALLOW
+      effect! EFFECT_ALLOW
       roles:
         - ADMIN
 
